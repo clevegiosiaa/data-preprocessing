@@ -1,0 +1,944 @@
+waktu,arah,koridor,target_kecepatan,jarak,target_waktu_tempuh,pencapaian_kecepatan_per_koridor,pencapaian_kecepatan,pencapaian_waktu_tempuh
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,20.5,19.62,57.43,22.7,22.98,63.83
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,20.5,13.36,39.1,25.43,22.98,37.71
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,20.5,11.13,32.58,27.54,22.98,26.99
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,20.5,16.25,47.56,22.2,22.98,50.82
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,15.87,46.45,25.99,22.98,42.06
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,20.5,12.25,35.86,16.28,22.98,47.1
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,13.4,39.22,20.7,22.98,41.29
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,20.5,17.08,49.99,21.69,22.15,63.6
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,20.5,21.21,62.08,22.16,22.15,75.63
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,20.5,9.39,27.48,24.14,22.15,28.78
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,14.87,43.52,18.8,22.15,49.69
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,18.91,55.35,23.97,22.15,60.58
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,20.5,12.89,37.73,25.56,23.35,30.76
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,20.5,12.73,37.26,24.2,23.35,31.58
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,20.5,11.39,33.34,26.15,23.35,26.47
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,20.5,14.45,42.3,19.71,23.35,44.03
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,20.5,20.11,58.86,21.14,23.35,57.25
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,20.5,13.71,40.13,20.96,25.88,45.39
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,20.5,14.85,43.46,24.09,25.88,47.38
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.67,42.94,32.86,25.88,35.6
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.56,42.61,25.62,25.88,38.83
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,20.5,20.62,60.35,24.52,24.43,47.13
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,20.5,13.42,39.28,26.17,24.43,37.0
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,20.5,10.93,31.99,22.09,24.43,65.81
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,20.5,17.05,49.9,17.59,24.43,74.38
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,20.5,15.75,46.1,33.15,24.43,31.79
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,20.5,13.2,38.63,23.03,24.43,35.24
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,20.5,16.32,47.77,27.64,33.5,42.9
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,20.5,18.79,55.0,31.74,33.5,51.49
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,20.5,8.45,24.73,38.18,33.5,14.14
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,20.5,14.92,43.67,30.97,33.5,29.88
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,20.5,18.31,53.59,38.98,33.5,34.18
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,20.5,14.38,42.09,27.16,30.47,31.76
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,20.5,12.86,37.64,34.82,30.47,22.43
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,20.5,11.38,33.31,35.12,30.47,19.49
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,20.5,13.13,38.43,31.68,30.47,24.88
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,20.5,20.29,59.39,23.55,30.47,51.69
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,20.5,14.47,42.35,31.67,28.53,29.17
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,20.5,15.55,45.51,23.14,28.53,43.11
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,20.5,17.43,51.01,31.41,28.53,45.51
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,20.5,16.23,47.5,27.9,28.53,45.43
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,20.5,19.62,57.43,22.96,24.16,55.94
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,20.5,13.36,39.1,25.96,24.16,34.14
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,20.5,11.13,32.58,25.35,24.16,29.68
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,20.5,16.25,47.56,20.83,24.16,48.9
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,15.87,46.45,29.0,24.16,35.03
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,20.5,12.25,35.86,21.09,24.16,38.28
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,13.4,39.22,23.89,24.16,34.18
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,20.5,17.08,49.99,22.79,26.76,48.49
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,20.5,21.21,62.08,26.77,26.76,60.82
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,20.5,9.39,27.48,25.57,26.76,25.1
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,14.87,43.52,28.01,26.76,49.72
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,18.91,55.35,30.68,26.76,42.15
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,20.5,12.89,37.73,21.0,22.1,37.64
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,20.5,12.73,37.26,22.16,22.1,35.43
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,20.5,11.39,33.34,24.73,22.1,28.19
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,20.5,14.45,42.3,20.88,22.1,42.03
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,20.5,20.11,58.86,21.74,22.1,55.68
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,20.5,13.71,40.13,25.15,25.13,35.44
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,20.5,14.85,43.46,22.57,25.13,41.93
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.67,42.94,30.9,25.13,34.5
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.56,42.61,21.89,25.13,44.99
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,20.5,20.62,60.35,19.48,19.44,75.46
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,20.5,13.42,39.28,19.18,19.44,46.75
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,20.5,10.93,31.99,28.27,19.44,44.46
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,20.5,17.05,49.9,16.43,19.44,73.32
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,20.5,15.75,46.1,18.11,19.44,61.83
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,20.5,13.2,38.63,15.18,19.44,55.01
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,20.5,16.32,47.77,23.36,21.31,52.06
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,20.5,18.79,55.0,23.53,21.31,61.13
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,20.5,8.45,24.73,23.47,21.31,22.35
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,20.5,14.92,43.67,15.13,21.31,61.24
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,20.5,18.31,53.59,21.04,21.31,60.97
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,20.5,14.38,42.09,16.04,22.21,54.6
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,20.5,12.86,37.64,25.6,22.21,30.71
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,20.5,11.38,33.31,25.96,22.21,26.58
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,20.5,13.13,38.43,24.64,22.21,32.42
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,20.5,20.29,59.39,18.81,22.21,65.88
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,20.5,14.47,42.35,17.26,16.97,51.78
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,20.5,15.55,45.51,15.1,16.97,63.44
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,20.5,17.43,51.01,18.52,16.97,61.67
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,20.5,16.23,47.5,16.99,16.97,60.65
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,20.5,19.62,57.43,22.8,22.79,62.42
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,20.5,13.36,39.1,24.87,22.79,37.65
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,20.5,11.13,32.58,27.77,22.79,26.97
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,20.5,16.25,47.56,22.83,22.79,50.01
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,15.87,46.45,25.34,22.79,42.57
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,20.5,12.25,35.86,15.91,22.79,47.71
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,13.4,39.22,20.02,22.79,41.04
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,20.5,17.08,49.99,20.96,21.43,65.14
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,20.5,21.21,62.08,21.03,21.43,78.4
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,20.5,9.39,27.48,23.06,21.43,29.47
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,14.87,43.52,18.38,21.43,50.92
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,18.91,55.35,23.73,21.43,61.03
+pagi,Utara - Pusa,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,20.5,12.89,37.73,25.69,22.77,30.1
+pagi,Utara - Pusa,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,20.5,12.73,37.26,23.44,22.77,33.01
+pagi,Utara - Pusa,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,20.5,11.39,33.34,24.56,22.77,27.39
+pagi,Utara - Pusa,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,20.5,14.45,42.3,19.45,22.77,44.35
+pagi,Utara - Pusa,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,20.5,20.11,58.86,20.72,22.77,58.68
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,20.5,13.71,40.13,21.79,23.96,44.79
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,20.5,14.85,43.46,24.35,23.96,47.26
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.67,42.94,24.76,23.96,41.93
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.56,42.61,24.94,23.96,41.46
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,20.5,20.62,60.35,24.52,25.33,46.69
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,20.5,13.42,39.28,29.46,25.33,35.68
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,20.5,10.93,31.99,23.72,25.33,55.65
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,20.5,17.05,49.9,18.06,25.33,72.18
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,20.5,15.75,46.1,33.26,25.33,31.22
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,20.5,13.2,38.63,22.97,25.33,35.0
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,20.5,16.32,47.77,26.93,33.21,45.58
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,20.5,18.79,55.0,31.67,33.21,53.07
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,20.5,8.45,24.73,37.59,33.21,14.35
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,20.5,14.92,43.67,30.68,33.21,30.06
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,20.5,18.31,53.59,39.19,33.21,34.51
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,20.5,14.38,42.09,27.25,30.31,31.54
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,20.5,12.86,37.64,33.3,30.31,23.24
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,20.5,11.38,33.31,35.79,30.31,19.01
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,20.5,13.13,38.43,31.71,30.31,24.85
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,20.5,20.29,59.39,23.51,30.31,51.9
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,20.5,14.47,42.35,42.2,31.45,28.18
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,20.5,15.55,45.51,23.8,31.45,42.72
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,20.5,17.43,51.01,33.05,31.45,44.54
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,20.5,16.23,47.5,26.74,31.45,46.0
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,20.5,19.62,57.43,23.36,25.35,54.94
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,20.5,13.36,39.1,24.89,25.35,33.9
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,20.5,11.13,32.58,25.61,25.35,28.42
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,20.5,16.25,47.56,22.3,25.35,45.94
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,15.87,46.45,30.16,25.35,33.13
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,20.5,12.25,35.86,24.47,25.35,31.18
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,13.4,39.22,26.66,25.35,30.86
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,20.5,17.08,49.99,22.04,26.91,49.28
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,20.5,21.21,62.08,27.52,26.91,59.72
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,20.5,9.39,27.48,25.83,26.91,24.51
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,14.87,43.52,26.52,26.91,35.5
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,18.91,55.35,32.65,26.91,40.19
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,20.5,12.89,37.73,20.36,21.74,38.08
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,20.5,12.73,37.26,21.74,21.74,35.25
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,20.5,11.39,33.34,24.45,21.74,28.1
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,20.5,14.45,42.3,20.6,21.74,43.32
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,20.5,20.11,58.86,21.56,21.74,56.19
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,20.5,13.71,40.13,27.77,27.7,32.88
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,20.5,14.85,43.46,25.7,27.7,39.68
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.67,42.94,28.19,27.7,38.78
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.56,42.61,29.15,27.7,36.11
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,20.5,20.62,60.35,19.19,19.39,74.97
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,20.5,13.42,39.28,20.23,19.39,47.43
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,20.5,10.93,31.99,26.55,19.39,47.75
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,20.5,17.05,49.9,15.84,19.39,78.57
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,20.5,15.75,46.1,17.58,19.39,61.36
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,20.5,13.2,38.63,16.92,19.39,51.85
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,20.5,16.32,47.77,21.71,21.67,53.22
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,20.5,18.79,55.0,22.39,21.67,61.18
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,20.5,8.45,24.73,24.12,21.67,21.99
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,20.5,14.92,43.67,19.73,21.67,54.18
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,20.5,18.31,53.59,20.4,21.67,63.33
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,20.5,14.38,42.09,15.21,22.37,56.17
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,20.5,12.86,37.64,25.04,22.37,30.6
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,20.5,11.38,33.31,26.6,22.37,25.88
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,20.5,13.13,38.43,24.74,22.37,32.11
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,20.5,20.29,59.39,20.24,22.37,61.81
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,20.5,14.47,42.35,17.95,18.26,51.44
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,20.5,15.55,45.51,16.72,18.26,60.63
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,20.5,17.43,51.01,19.92,18.26,61.32
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,20.5,16.23,47.5,18.47,18.26,59.32
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,20.5,19.62,57.43,22.57,23.08,61.88
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,20.5,13.36,39.1,23.57,23.08,38.58
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,20.5,11.13,32.58,27.52,23.08,28.22
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,20.5,16.25,47.56,22.84,23.08,50.03
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,15.87,46.45,25.14,23.08,42.9
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,20.5,12.25,35.86,17.36,23.08,45.29
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,13.4,39.22,22.59,23.08,38.13
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,20.5,17.08,49.99,19.77,21.04,66.54
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,20.5,21.21,62.08,19.94,21.04,81.49
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,20.5,9.39,27.48,21.82,21.04,32.69
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,14.87,43.52,21.18,21.04,47.74
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,18.91,55.35,22.48,21.04,64.06
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,20.5,12.89,37.73,24.28,22.3,31.81
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,20.5,12.73,37.26,22.22,22.3,34.32
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,20.5,11.39,33.34,24.2,22.3,28.17
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,20.5,14.45,42.3,19.12,22.3,45.15
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,20.5,20.11,58.86,21.72,22.3,56.57
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,20.5,13.71,40.13,32.93,34.55,29.26
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,20.5,14.85,43.46,33.67,34.55,31.83
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.67,42.94,37.65,34.55,29.31
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.56,42.61,33.96,34.55,29.17
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,20.5,20.62,60.35,25.22,25.8,46.46
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,20.5,13.42,39.28,27.0,25.8,36.15
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,20.5,10.93,31.99,24.38,25.8,44.88
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,20.5,17.05,49.9,20.23,25.8,63.89
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,20.5,15.75,46.1,32.46,25.8,31.71
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,20.5,13.2,38.63,25.48,25.8,32.18
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,20.5,16.32,47.77,25.86,32.52,46.97
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,20.5,18.79,55.0,30.57,32.52,54.15
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,20.5,8.45,24.73,36.9,32.52,14.83
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,20.5,14.92,43.67,31.85,32.52,29.46
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,20.5,18.31,53.59,37.43,32.52,36.21
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,20.5,14.38,42.09,25.39,29.69,33.86
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,20.5,12.86,37.64,32.53,29.69,23.86
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,20.5,11.38,33.31,34.87,29.69,19.74
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,20.5,13.13,38.43,32.04,29.69,24.76
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,20.5,20.29,59.39,23.6,29.69,51.61
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,20.5,14.47,42.35,34.61,32.6,28.35
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,20.5,15.55,45.51,28.1,32.6,35.24
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,20.5,17.43,51.01,36.04,32.6,38.58
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,20.5,16.23,47.5,31.67,32.6,39.32
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,20.5,19.62,57.43,23.47,24.8,54.03
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,20.5,13.36,39.1,24.7,24.8,34.44
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,20.5,11.13,32.58,25.9,24.8,28.44
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,20.5,16.25,47.56,22.15,24.8,46.47
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,15.87,46.45,30.61,24.8,32.76
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,20.5,12.25,35.86,20.75,24.8,36.85
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),20.5,13.4,39.22,26.01,24.8,31.53
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,20.5,17.08,49.99,21.08,24.15,52.11
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,20.5,21.21,62.08,23.52,24.15,63.36
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,20.5,9.39,27.48,20.58,24.15,29.21
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,14.87,43.52,28.38,24.15,31.9
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,20.5,18.91,55.35,27.19,24.15,43.31
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,20.5,12.89,37.73,19.84,21.1,39.33
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,20.5,12.73,37.26,21.62,21.1,36.01
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,20.5,11.39,33.34,23.61,21.1,29.06
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,20.5,14.45,42.3,19.05,21.1,45.85
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,20.5,20.11,58.86,21.38,21.1,56.86
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,20.5,13.71,40.13,28.01,28.24,32.85
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,20.5,14.85,43.46,26.31,28.24,39.65
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.67,42.94,28.69,28.24,38.82
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,20.5,14.56,42.61,29.95,28.24,36.0
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,20.5,20.62,60.35,19.38,19.36,74.33
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,20.5,13.42,39.28,20.34,19.36,46.42
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,20.5,10.93,31.99,27.29,19.36,44.47
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,20.5,17.05,49.9,16.2,19.36,74.0
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,20.5,15.75,46.1,17.73,19.36,61.14
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,20.5,13.2,38.63,15.21,19.36,54.26
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,20.5,16.32,47.77,17.71,16.88,63.4
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,20.5,18.79,55.0,16.85,16.88,75.63
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,20.5,8.45,24.73,17.67,16.88,30.93
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,20.5,14.92,43.67,15.31,16.88,57.44
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,20.5,18.31,53.59,16.86,16.88,77.29
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,20.5,14.38,42.09,14.76,21.61,59.39
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,20.5,12.86,37.64,24.61,21.61,31.63
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,20.5,11.38,33.31,25.7,21.61,26.88
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,20.5,13.13,38.43,23.62,21.61,33.42
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,20.5,20.29,59.39,19.36,21.61,62.17
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,20.5,14.47,42.35,17.7,18.34,51.83
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,20.5,15.55,45.51,16.74,18.34,60.28
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,20.5,17.43,51.01,20.13,18.34,61.21
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,20.5,16.23,47.5,18.79,18.34,59.13
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,23.0,19.62,51.19,23.65,23.59,60.28
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,23.0,13.36,34.85,23.57,23.59,39.92
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,23.0,11.13,29.03,30.16,23.59,26.19
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,23.0,16.25,42.39,24.49,23.59,45.81
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),23.0,15.87,41.4,28.1,23.59,40.94
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,23.0,12.25,31.96,15.62,23.59,48.78
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),23.0,13.4,34.96,19.54,23.59,42.85
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,23.0,17.08,44.56,20.67,20.76,66.39
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,23.0,21.21,55.33,20.36,20.76,81.86
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,23.0,9.39,24.5,23.13,20.76,30.33
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,23.0,14.87,38.79,17.16,20.76,54.65
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,23.0,18.91,49.33,22.47,20.76,65.67
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,23.0,12.89,33.63,24.43,22.46,32.22
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,23.0,12.73,33.21,22.16,22.46,35.1
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,23.0,11.39,29.71,24.24,22.46,28.93
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,23.0,14.45,37.7,19.56,22.46,44.74
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,23.0,20.11,52.46,21.93,22.46,55.78
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,23.0,13.71,35.77,27.0,28.38,36.82
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,23.0,14.85,38.74,28.46,28.38,39.6
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,23.0,14.67,38.27,29.56,28.38,36.74
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,23.0,14.56,37.98,28.52,28.38,34.17
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,23.0,20.62,53.79,25.44,28.83,47.32
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,23.0,13.42,35.01,28.17,28.83,34.25
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,23.0,10.93,28.51,35.82,28.83,34.44
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,23.0,17.05,44.48,25.3,28.83,56.24
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,23.0,15.75,41.09,33.8,28.83,30.93
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,23.0,13.2,34.43,24.46,28.83,32.68
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,23.0,16.32,42.57,26.35,32.96,47.82
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,23.0,18.79,49.02,32.82,32.96,55.32
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,23.0,8.45,22.04,37.76,32.96,14.44
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,23.0,14.92,38.92,29.1,32.96,32.58
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,23.0,18.31,47.77,38.79,32.96,35.47
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,23.0,14.38,37.51,25.55,29.38,34.49
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,23.0,12.86,33.55,33.3,29.38,23.57
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,23.0,11.38,29.69,34.06,29.38,20.64
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,23.0,13.13,34.25,29.9,29.38,26.67
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,23.0,20.29,52.93,24.09,29.38,50.76
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,23.0,14.47,37.75,31.6,29.01,30.64
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,23.0,15.55,40.57,24.86,29.01,39.79
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,23.0,17.43,45.47,31.38,29.01,42.51
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,23.0,16.23,42.34,28.18,29.01,42.88
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,19.0,19.62,61.96,21.7,22.27,64.17
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,19.0,13.36,42.19,21.66,22.27,41.99
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,19.0,11.13,35.15,28.23,22.27,27.49
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,19.0,16.25,51.32,23.36,22.27,46.6
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),19.0,15.87,50.12,25.42,22.27,43.42
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,19.0,12.25,38.69,16.07,22.27,44.93
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),19.0,13.4,42.32,19.45,22.27,42.72
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,19.0,17.08,53.94,20.81,20.63,67.94
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,19.0,21.21,66.98,20.25,20.63,83.04
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,19.0,9.39,29.65,23.69,20.63,29.64
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,19.0,14.87,46.96,16.78,20.63,56.72
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,19.0,18.91,59.72,21.6,20.63,69.86
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,19.0,12.89,40.71,23.39,21.61,33.49
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,19.0,12.73,40.2,21.07,21.61,36.53
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,19.0,11.39,35.97,23.18,21.61,30.08
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,19.0,14.45,45.63,18.85,21.61,46.0
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,19.0,20.11,63.51,21.55,21.61,56.42
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,19.0,13.71,43.29,24.18,26.28,42.1
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,19.0,14.85,46.89,26.32,26.28,44.81
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,19.0,14.67,46.33,26.99,26.28,39.68
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,19.0,14.56,45.98,27.62,26.28,36.75
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,19.0,20.62,65.11,23.79,27.09,49.88
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,19.0,13.42,42.38,26.61,27.09,35.42
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,19.0,10.93,34.52,32.84,27.09,38.61
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,19.0,17.05,53.84,21.68,27.09,62.99
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,19.0,15.75,49.74,32.56,27.09,31.67
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,19.0,13.2,41.68,25.05,27.09,31.97
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,19.0,16.32,51.54,25.88,32.9,47.31
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,19.0,18.79,59.34,33.03,32.9,53.9
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,19.0,8.45,26.68,37.46,32.9,14.42
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,19.0,14.92,47.12,29.38,32.9,31.93
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,19.0,18.31,57.82,38.76,32.9,35.0
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,19.0,14.38,45.41,26.41,30.37,33.69
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,19.0,12.86,40.61,34.62,30.37,22.89
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,19.0,11.38,35.94,34.7,30.37,20.32
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,19.0,13.13,41.46,32.0,30.37,25.22
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,19.0,20.29,64.07,24.11,30.37,50.63
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,19.0,14.47,45.69,32.69,29.58,28.69
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,19.0,15.55,49.11,24.11,29.58,41.97
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,19.0,17.43,55.04,32.78,29.58,44.49
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,19.0,16.23,51.25,28.73,29.58,44.31
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,19.0,19.62,61.96,22.24,22.65,52.81
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,19.0,13.36,42.19,22.22,22.65,37.78
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,19.0,11.13,35.15,22.07,22.65,31.06
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,19.0,16.25,51.32,18.63,22.65,51.56
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),19.0,15.87,50.12,23.95,22.65,42.31
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,19.0,12.25,38.69,22.89,22.65,33.06
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),19.0,13.4,42.32,26.52,22.65,30.81
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,19.0,17.08,53.94,25.54,28.44,52.42
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,19.0,21.21,66.98,28.16,28.44,67.18
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,19.0,9.39,29.65,26.86,28.44,23.17
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,19.0,14.87,46.96,30.36,28.44,29.83
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,19.0,18.91,59.72,31.28,28.44,39.61
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,19.0,12.89,40.71,21.43,22.6,36.14
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,19.0,12.73,40.2,23.68,22.6,32.29
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,19.0,11.39,35.97,24.79,22.6,27.53
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,19.0,14.45,45.63,20.58,22.6,42.15
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,19.0,20.11,63.51,22.5,22.6,54.08
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,19.0,13.71,43.29,25.87,26.3,34.14
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,19.0,14.85,46.89,24.38,26.3,39.92
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,19.0,14.67,46.33,28.03,26.3,35.71
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,19.0,14.56,45.98,26.93,26.3,37.38
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,19.0,20.62,65.11,18.05,18.01,72.5
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,19.0,13.42,42.38,18.17,18.01,48.14
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,19.0,10.93,34.52,22.67,18.01,37.25
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,19.0,17.05,53.84,16.14,18.01,70.89
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,19.0,15.75,49.74,17.23,18.01,61.35
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,19.0,13.2,41.68,15.77,18.01,51.32
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,19.0,16.32,51.54,18.99,18.72,62.49
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,19.0,18.79,59.34,18.34,18.72,75.13
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,19.0,8.45,26.68,22.33,18.72,25.15
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,19.0,14.92,47.12,14.78,18.72,63.46
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,19.0,18.31,57.82,19.14,18.72,71.71
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,19.0,14.38,45.41,16.3,22.83,54.0
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,19.0,12.86,40.61,26.44,22.83,29.67
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,19.0,11.38,35.94,26.69,22.83,26.17
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,19.0,13.13,41.46,23.98,22.83,33.25
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,19.0,20.29,64.07,20.75,22.83,59.71
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,19.0,14.47,45.69,19.63,18.82,48.46
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,19.0,15.55,49.11,16.15,18.82,60.81
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,19.0,17.43,55.04,20.51,18.82,59.04
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,19.0,16.23,51.25,18.99,18.82,57.26
+pagi,selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,24.0,19.62,49.05,32.42,31.73,47.29
+pagi,selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,24.0,13.36,33.4,33.78,31.73,28.68
+pagi,selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,24.0,11.13,27.83,31.95,31.73,24.49
+pagi,selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,24.0,16.25,40.63,33.9,31.73,36.36
+pagi,selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24.0,15.87,39.68,38.5,31.73,29.18
+pagi,selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,24.0,12.25,30.63,23.43,31.73,35.4
+pagi,selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24.0,13.4,33.5,28.15,31.73,32.76
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,24.0,17.08,42.7,30.02,31.36,47.56
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,24.0,21.21,53.03,29.16,31.36,59.51
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,24.0,9.39,23.48,32.16,31.36,23.38
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,24.0,14.87,37.18,32.77,31.36,34.21
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,24.0,18.91,47.28,32.69,31.36,44.67
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,24.0,12.89,32.23,30.84,30.9,25.78
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,24.0,12.73,31.83,31.9,30.9,25.21
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,24.0,11.39,28.48,34.47,30.9,20.61
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,24.0,14.45,36.13,29.36,30.9,31.5
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,24.0,20.11,50.28,27.95,30.9,45.03
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,24.0,13.71,34.28,23.73,25.63,42.33
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,24.0,14.85,37.13,26.2,25.63,44.76
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,24.0,14.67,36.68,26.74,25.63,39.85
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,24.0,14.56,36.4,25.85,25.63,40.6
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,24.0,20.62,51.55,33.8,34.09,42.39
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,24.0,13.42,33.55,31.27,34.09,29.81
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,24.0,10.93,27.33,43.15,34.09,28.99
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,24.0,17.05,42.63,27.69,34.09,54.78
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,24.0,15.75,39.38,41.91,34.09,25.15
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,24.0,13.2,33.0,26.73,34.09,29.94
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,24.0,16.32,40.8,32.42,38.33,35.65
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,24.0,18.79,46.98,36.79,38.33,41.38
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,24.0,8.45,21.13,40.8,38.33,13.82
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,24.0,14.92,37.3,38.96,38.33,24.01
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,24.0,18.31,45.78,42.67,38.33,29.31
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,24.0,14.38,35.95,33.99,37.16,25.83
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,24.0,12.86,32.15,43.03,37.16,18.35
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,24.0,11.38,28.45,42.27,37.16,16.56
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,24.0,13.13,32.83,37.91,37.16,21.5
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,24.0,20.29,50.73,28.57,37.16,43.71
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,24.0,14.47,36.18,43.0,32.27,28.21
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,24.0,15.55,38.88,24.2,32.27,42.06
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,24.0,17.43,43.58,33.01,32.27,43.18
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,24.0,16.23,40.58,28.88,32.27,45.29
+sore,selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,24.0,19.62,49.05,28.34,29.47,42.56
+sore,selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,24.0,13.36,33.4,29.84,29.47,29.11
+sore,selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,24.0,11.13,27.83,33.03,29.47,22.01
+sore,selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,24.0,16.25,40.63,24.63,29.47,41.26
+sore,selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24.0,15.87,39.68,33.56,29.47,28.96
+sore,selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,24.0,12.25,30.63,27.57,29.47,27.5
+sore,selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),24.0,13.4,33.5,29.31,29.47,28.54
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,24.0,17.08,42.7,27.75,31.89,43.99
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,24.0,21.21,53.03,34.24,31.89,53.32
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,24.0,9.39,23.48,31.72,31.89,21.28
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,24.0,14.87,37.18,32.05,31.89,28.53
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,24.0,18.91,47.28,33.69,31.89,35.07
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,24.0,12.89,32.23,22.38,24.06,35.36
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,24.0,12.73,31.83,24.41,24.06,32.4
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,24.0,11.39,28.48,26.12,24.06,26.65
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,24.0,14.45,36.13,22.59,24.06,39.57
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,24.0,20.11,50.28,24.78,24.06,49.69
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,24.0,13.71,34.28,25.49,25.94,35.22
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,24.0,14.85,37.13,24.36,25.94,40.39
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,24.0,14.67,36.68,27.64,25.94,36.5
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,24.0,14.56,36.4,26.29,25.94,38.94
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,24.0,20.62,51.55,25.5,30.28,54.15
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,24.0,13.42,33.55,29.86,30.28,31.78
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,24.0,10.93,27.33,50.14,30.28,19.78
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,24.0,17.05,42.63,24.47,30.28,49.81
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,24.0,15.75,39.38,31.2,30.28,35.99
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,24.0,13.2,33.0,20.53,30.28,40.82
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,24.0,16.32,40.8,26.95,26.51,41.64
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,24.0,18.79,46.98,29.28,26.51,48.58
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,24.0,8.45,21.13,30.79,26.51,17.76
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,24.0,14.92,37.3,18.91,26.51,51.14
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,24.0,18.31,45.78,26.63,26.51,44.69
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,24.0,14.38,35.95,17.7,24.5,51.43
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,24.0,12.86,32.15,27.79,24.5,28.81
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,24.0,11.38,28.45,28.48,24.5,24.78
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,24.0,13.13,32.83,25.42,24.5,31.65
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,24.0,20.29,50.73,23.12,24.5,54.43
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,24.0,14.47,36.18,19.43,18.57,48.53
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,24.0,15.55,38.88,15.98,18.57,61.57
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,24.0,17.43,43.58,20.24,18.57,59.31
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,24.0,16.23,40.58,18.64,18.57,58.17
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,22.0,19.62,53.51,22.73,25.81,61.14
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,22.0,13.36,36.44,24.61,25.81,35.0
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,22.0,11.13,30.35,31.36,25.81,23.63
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,22.0,16.25,44.32,26.75,25.81,40.32
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),22.0,15.87,43.28,30.76,25.81,33.58
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,22.0,12.25,33.41,19.74,25.81,38.61
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),22.0,13.4,36.55,24.73,25.81,33.72
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,22.0,17.08,46.58,24.74,24.13,54.58
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,22.0,21.21,57.85,22.41,24.13,68.28
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,22.0,9.39,25.61,24.6,24.13,26.17
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,22.0,14.87,40.55,21.1,24.13,47.19
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,22.0,18.91,51.57,27.82,24.13,54.46
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,22.0,12.89,35.15,26.11,24.65,29.43
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,22.0,12.73,34.72,24.36,24.65,31.11
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,22.0,11.39,31.06,27.6,24.65,24.74
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,22.0,14.45,39.41,20.67,24.65,41.51
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,22.0,20.11,54.85,24.49,24.65,48.99
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,22.0,13.71,37.39,27.97,29.37,37.81
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,22.0,14.85,40.5,29.11,29.37,40.57
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,22.0,14.67,40.01,30.57,29.37,37.75
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,22.0,14.56,39.71,29.81,29.37,34.35
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,22.0,20.62,56.23,24.64,28.65,47.06
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,22.0,13.42,36.6,28.57,28.65,31.53
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,22.0,10.93,29.81,34.41,28.65,33.11
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,22.0,17.05,46.5,22.41,28.65,61.17
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,22.0,15.75,42.95,36.46,28.65,28.33
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,22.0,13.2,36.0,25.44,28.65,32.47
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,22.0,16.32,44.51,28.44,34.87,37.57
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,22.0,18.79,51.25,33.71,34.87,43.76
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,22.0,8.45,23.05,39.4,34.87,13.97
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,22.0,14.92,40.69,32.3,34.87,28.97
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,22.0,18.31,49.94,40.49,34.87,33.0
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,22.0,14.38,39.22,29.62,32.69,28.94
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,22.0,12.86,35.07,37.15,32.69,20.74
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,22.0,11.38,31.04,38.0,32.69,17.99
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,22.0,13.13,35.81,32.49,32.69,24.25
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,22.0,20.29,55.34,26.2,32.69,46.32
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,22.0,14.47,39.46,33.19,30.2,29.5
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,22.0,15.55,42.41,26.23,30.2,39.25
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,22.0,17.43,47.54,32.03,30.2,42.6
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,22.0,16.23,44.26,29.35,30.2,42.63
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,22.0,19.62,53.51,25.95,27.11,46.63
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,22.0,13.36,36.44,25.75,27.11,33.33
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,22.0,11.13,30.35,30.51,27.11,24.78
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,22.0,16.25,44.32,25.37,27.11,41.76
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),22.0,15.87,43.28,31.38,27.11,30.83
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,22.0,12.25,33.41,23.97,27.11,31.35
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),22.0,13.4,36.55,26.86,27.11,30.83
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,22.0,17.08,46.58,27.73,27.97,49.26
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,22.0,21.21,57.85,27.1,27.97,57.49
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,22.0,9.39,25.61,27.36,27.97,24.17
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,22.0,14.87,40.55,28.41,27.97,32.13
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,22.0,18.91,51.57,29.26,27.97,43.25
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,22.0,12.89,35.15,21.16,22.62,37.04
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,22.0,12.73,34.72,22.91,22.62,33.64
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,22.0,11.39,31.06,24.5,22.62,28.1
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,22.0,14.45,39.41,21.25,22.62,41.07
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,22.0,20.11,54.85,23.26,22.62,51.97
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,22.0,13.71,37.39,26.8,28.14,34.33
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,22.0,14.85,40.5,26.27,28.14,39.78
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,22.0,14.67,40.01,29.44,28.14,35.29
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,22.0,14.56,39.71,30.06,28.14,34.28
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,22.0,20.62,56.23,21.41,24.71,63.0
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,22.0,13.42,36.6,25.44,24.71,36.11
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,22.0,10.93,29.81,38.02,24.71,25.53
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,22.0,17.05,46.5,21.61,24.71,54.75
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,22.0,15.75,42.95,24.37,24.71,43.88
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,22.0,13.2,36.0,17.38,24.71,46.51
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,22.0,16.32,44.51,21.2,21.17,50.26
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,22.0,18.79,51.25,21.24,21.17,59.24
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,22.0,8.45,23.05,24.96,21.17,22.89
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,22.0,14.92,40.69,16.18,21.17,57.39
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,22.0,18.31,49.94,22.27,21.17,59.4
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,22.0,14.38,39.22,16.99,23.27,51.81
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,22.0,12.86,35.07,26.44,23.27,29.65
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,22.0,11.38,31.04,27.49,23.27,25.15
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,22.0,13.13,35.81,25.14,23.27,31.61
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,22.0,20.29,55.34,20.29,23.27,60.57
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,22.0,14.47,39.46,21.28,20.7,47.0
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,22.0,15.55,42.41,17.94,20.7,58.43
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,22.0,17.43,47.54,22.49,20.7,57.01
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,22.0,16.23,44.26,21.09,20.7,55.61
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,22.77,24.36,58.82
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,24.14,24.36,36.88
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,29.64,24.36,25.99
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,25.82,24.36,44.35
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,28.18,24.36,37.33
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,17.66,24.36,42.97
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,22.32,24.36,36.93
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,23.73,23.03,55.07
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,21.46,23.03,70.03
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,23.59,23.03,27.46
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,19.2,23.03,48.49
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,27.15,23.03,52.94
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,25.67,24.17,29.68
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,23.3,24.17,32.11
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,27.0,24.17,25.03
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,21.31,24.17,40.47
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,23.58,24.17,51.15
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,24.56,25.92,40.88
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,26.07,25.92,43.65
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,26.2,25.92,42.83
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,26.85,25.92,36.92
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,24.05,28.32,48.71
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,28.14,28.32,32.78
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,35.09,28.32,34.74
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,24.02,28.32,55.89
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,35.45,28.32,30.57
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,23.14,28.32,54.04
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,27.59,33.8,38.42
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,32.89,33.8,45.51
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,39.32,33.8,14.21
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,29.51,33.8,31.85
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,39.68,33.8,36.39
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,28.68,31.46,29.89
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,35.73,31.46,21.44
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,35.75,31.46,18.93
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,31.99,31.46,24.47
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,25.18,31.46,48.33
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,34.67,30.48,27.33
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,25.59,30.48,39.78
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,32.45,30.48,43.86
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,29.2,30.48,43.82
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,25.64,26.34,46.51
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,24.83,26.34,33.67
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,28.36,26.34,28.35
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,24.8,26.34,45.56
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,30.04,26.34,32.67
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,23.74,26.34,31.89
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,26.94,26.34,30.72
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,27.98,28.81,45.43
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,30.13,28.81,54.96
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,26.44,28.81,25.01
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,29.89,28.81,30.24
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,29.6,28.81,42.99
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,21.7,23.24,35.58
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,24.0,23.24,31.79
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,24.93,23.24,27.36
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,21.64,23.24,39.9
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,23.9,23.24,50.79
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,28.68,28.97,30.31
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,26.81,28.97,35.85
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,30.29,28.97,34.46
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,30.08,28.97,33.79
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,20.69,22.03,64.83
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,22.77,22.03,41.17
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,32.87,22.03,30.14
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,19.16,22.03,61.29
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,21.15,22.03,50.33
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,15.52,22.03,52.76
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,19.93,20.22,53.67
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,20.86,20.22,61.94
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,23.49,20.22,24.79
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,15.71,20.22,59.38
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,21.09,20.22,63.86
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,17.13,23.46,51.14
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,26.85,23.46,29.1
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,27.56,23.46,25.06
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,24.76,23.46,32.21
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,21.01,23.46,58.78
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,20.41,20.25,45.81
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,17.41,20.25,56.99
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,22.1,20.25,54.92
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,21.08,20.25,52.68
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,23.95,26.31,61.1
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,26.09,26.31,35.89
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,31.4,26.31,24.99
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,26.33,26.31,43.54
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,30.39,26.31,35.39
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,20.24,26.31,39.04
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,25.75,26.31,33.06
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,23.65,24.58,56.08
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,21.91,24.58,70.9
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,23.92,24.58,27.6
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,26.97,24.58,37.97
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,26.44,24.58,55.56
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,25.06,23.73,31.03
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,22.94,23.73,32.93
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,25.83,23.73,26.19
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,20.92,23.73,41.5
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,23.88,23.73,50.69
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,23.96,25.84,41.35
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,26.16,25.84,43.68
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,25.92,25.84,42.49
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,27.3,25.84,36.4
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,25.1,29.36,47.67
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,29.73,29.36,32.04
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,36.53,29.36,37.75
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,24.38,29.36,57.07
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,37.3,29.36,28.81
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,23.1,29.36,38.14
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,27.56,32.9,39.38
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,33.22,32.9,46.0
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,38.83,32.9,14.15
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,25.09,32.9,40.64
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,39.78,32.9,35.44
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,27.78,30.59,30.93
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,34.99,30.59,21.86
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,35.46,30.59,19.1
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,32.17,30.59,24.24
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,22.53,30.59,54.82
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,34.28,30.34,28.43
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,25.01,30.34,41.13
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,32.71,30.34,43.04
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,29.35,30.34,42.81
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,25.35,25.76,48.13
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,25.17,25.76,33.65
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,29.16,25.76,27.97
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,25.14,25.76,45.07
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,30.36,25.76,32.44
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,20.51,25.76,38.81
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,24.6,25.76,33.89
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,28.0,28.56,45.08
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,30.85,28.56,54.97
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,28.41,28.56,23.61
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,24.54,28.56,38.61
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,30.98,28.56,40.57
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,20.84,22.5,37.1
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,22.92,22.5,33.44
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,24.3,22.5,28.18
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,20.82,22.5,41.75
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,23.61,22.5,51.32
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,29.6,30.15,29.4
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,28.28,30.15,34.38
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,31.34,30.15,33.85
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,31.4,30.15,32.74
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,21.45,23.1,63.69
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,22.77,23.1,41.11
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,32.97,23.1,29.68
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,19.3,23.1,62.78
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,22.57,23.1,47.92
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,19.57,23.1,44.76
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,22.89,24.24,49.72
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,24.79,24.24,57.32
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,27.26,24.24,22.42
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,21.73,24.24,49.47
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,24.51,24.24,58.85
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,15.66,23.02,55.64
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,26.02,23.02,30.28
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,26.93,23.02,25.83
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,24.48,23.02,32.67
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,22.03,23.02,56.04
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,20.79,21.11,45.71
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,17.91,21.11,55.19
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,23.41,21.11,52.63
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,22.33,21.11,50.08
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,23.71,25.56,57.08
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,24.83,25.56,36.75
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,28.52,25.56,26.9
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,25.33,25.56,47.1
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,28.29,25.56,36.14
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,20.4,25.56,38.71
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,27.85,25.56,30.82
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,26.7,26.69,54.01
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,23.15,26.69,67.58
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,27.45,26.69,25.38
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,24.53,26.69,42.04
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,31.59,26.69,53.22
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,24.68,24.1,31.33
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,24.69,24.1,31.04
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,25.61,24.1,26.58
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,21.13,24.1,41.08
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,24.37,24.1,50.1
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,23.13,25.26,41.83
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,25.88,25.26,43.74
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,25.09,25.26,42.14
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,26.94,25.26,36.85
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,24.23,28.22,49.1
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,27.68,28.22,33.74
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,30.31,28.22,56.43
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,23.95,28.22,56.6
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,35.85,28.22,29.54
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,27.31,28.22,29.67
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,32.42,35.45,37.82
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,32.39,35.45,47.53
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,40.13,35.45,13.56
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,32.48,35.45,29.18
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,39.81,35.45,34.47
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,25.08,29.98,34.28
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,34.39,29.98,22.22
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,33.7,29.98,20.11
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,31.62,29.98,24.92
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,25.13,29.98,48.79
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,32.41,29.26,30.72
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,22.25,29.26,48.04
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,32.58,29.26,43.9
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,29.81,29.26,44.11
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,26.44,26.46,45.78
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,26.2,26.46,32.01
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,28.24,26.46,29.58
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,24.88,26.46,46.21
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,30.14,26.46,32.96
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,21.82,26.46,34.85
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,27.49,26.46,29.83
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,27.5,28.89,46.13
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,29.16,28.89,55.85
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,27.13,28.89,23.61
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,30.04,28.89,30.5
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,30.6,28.89,41.11
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,21.54,22.19,36.03
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,22.77,22.19,33.56
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,23.24,22.19,29.44
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,20.81,22.19,41.81
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,22.56,22.19,53.38
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,30.95,32.12,28.57
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,34.08,32.12,32.71
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,31.3,32.12,33.28
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,32.16,32.12,31.76
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,21.44,22.71,65.13
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,22.26,22.71,43.19
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,32.13,22.71,44.75
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,18.66,22.71,68.39
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,23.23,22.71,45.36
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,18.55,22.71,46.47
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,20.18,21.27,54.11
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,23.12,21.27,59.9
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,23.96,21.27,23.26
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,18.93,21.27,54.42
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,20.14,21.27,65.65
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,14.92,22.19,58.19
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,24.84,22.19,31.17
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,26.44,22.19,25.88
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,24.04,22.19,33.0
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,20.71,22.19,59.4
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,20.74,22.01,46.57
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,18.86,22.01,53.42
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,25.36,22.01,50.24
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,23.09,22.01,49.15
+pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,23.63,25.0,57.42
+pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,25.45,25.0,36.25
+pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,29.39,25.0,25.25
+pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,25.87,25.0,45.49
+pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,28.44,25.0,36.38
+pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,18.67,25.0,40.79
+pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,23.54,25.0,35.42
+pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,23.6,23.8,54.92
+pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,22.0,23.8,69.32
+pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,24.33,23.8,26.68
+pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,22.63,23.8,41.71
+pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,26.45,23.8,53.01
+pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,24.94,23.98,30.89
+pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,24.59,23.98,31.11
+pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,25.96,23.98,26.33
+pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,21.35,23.98,40.54
+pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,23.04,23.98,52.42
+pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,24.3,27.03,40.75
+pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,27.59,27.03,42.5
+pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,27.32,27.03,40.42
+pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,28.91,27.03,35.65
+pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,24.27,27.8,48.56
+pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,28.33,27.8,33.29
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,28.87,27.8,60.58
+pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,23.99,27.8,56.78
+pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,35.04,27.8,29.92
+pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,26.27,27.8,30.31
+pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,27.26,34.37,38.76
+pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,32.45,34.37,45.79
+pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,40.07,34.37,13.82
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,33.11,34.37,27.78
+pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,38.98,34.37,35.72
+pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,27.62,31.21,31.51
+pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,36.6,31.21,21.25
+pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,35.28,31.21,20.15
+pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,31.84,31.21,24.76
+pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,24.72,31.21,49.46
+pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,32.69,29.83,30.43
+pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,23.61,29.83,44.93
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,32.94,29.83,43.74
+pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,30.08,29.83,43.97
+sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,21.0,19.62,56.06,26.36,25.92,45.68
+sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,21.0,13.36,38.17,26.33,25.92,31.78
+sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,21.0,11.13,31.8,28.3,25.92,29.17
+sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,21.0,16.25,46.43,24.68,25.92,46.39
+sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,15.87,45.34,29.8,25.92,33.13
+sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,21.0,12.25,35.01,20.26,25.92,39.61
+sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),21.0,13.4,38.29,25.69,25.92,32.89
+sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,21.0,17.08,48.8,27.54,28.58,45.4
+sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,21.0,21.21,60.6,29.16,28.58,56.35
+sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,21.0,9.39,26.83,27.21,28.58,22.99
+sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,14.87,42.49,28.17,28.58,34.89
+sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,21.0,18.91,54.03,30.82,28.58,40.01
+sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,21.0,12.89,36.83,21.14,22.09,37.13
+sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,21.0,12.73,36.37,22.53,22.09,34.07
+sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,21.0,11.39,32.54,23.31,22.09,29.43
+sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,21.0,14.45,41.29,21.03,22.09,41.51
+sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,21.0,20.11,57.46,22.42,22.09,53.81
+sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,21.0,13.71,39.17,30.52,31.18,28.46
+sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,21.0,14.85,42.43,29.59,31.18,33.0
+sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.67,41.91,32.03,31.18,33.54
+sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,21.0,14.56,41.6,32.59,31.18,31.92
+sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,21.0,20.62,58.91,21.4,22.31,65.22
+sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,21.0,13.42,38.34,22.06,22.31,43.26
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,21.0,10.93,31.23,31.79,22.31,47.07
+sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,21.0,17.05,48.71,18.55,22.31,68.97
+sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,21.0,15.75,45.0,23.28,22.31,45.13
+sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,21.0,13.2,37.71,16.8,22.31,47.78
+sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,21.0,16.32,46.63,19.35,20.84,56.94
+sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,21.0,18.79,53.69,22.62,20.84,63.5
+sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,21.0,8.45,24.14,24.96,20.84,22.99
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,21.0,14.92,42.63,17.59,20.84,53.08
+sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,21.0,18.31,52.31,19.68,20.84,67.63
+sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,21.0,14.38,41.09,15.16,22.33,57.44
+sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,21.0,12.86,36.74,25.31,22.33,30.47
+sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,21.0,11.38,32.51,26.08,22.33,26.15
+sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,21.0,13.13,37.51,24.28,22.33,32.53
+sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,21.0,20.29,57.97,20.8,22.33,58.4
+sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,21.0,14.47,41.34,20.67,21.62,46.85
+sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,21.0,15.55,44.43,18.27,21.62,54.42
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,21.0,17.43,49.8,24.62,21.62,51.04
+sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,21.0,16.23,46.37,22.92,21.62,49.17
+Pagi,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,23.0,19.62,51.19,23.8,23.92,55.43
+Pagi,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,23.0,13.36,34.85,25.16,23.92,36.96
+Pagi,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,23.0,11.13,29.03,27.65,23.92,26.39
+Pagi,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,23.0,16.25,42.39,23.59,23.92,48.63
+Pagi,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),23.0,15.87,41.4,27.52,23.92,37.51
+Pagi,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,23.0,12.25,31.96,17.39,23.92,43.5
+Pagi,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),23.0,13.4,34.96,22.3,23.92,39.47
+Pagi,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,23.0,17.08,44.56,27.81,26.93,46.51
+Pagi,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,23.0,21.21,55.33,25.75,26.93,59.07
+Pagi,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,23.0,9.39,24.5,29.02,26.93,23.47
+Pagi,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,23.0,14.87,38.79,20.54,26.93,53.06
+Pagi,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,23.0,18.91,49.33,31.53,26.93,43.74
+Pagi,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,23.0,12.89,33.63,24.72,23.62,31.42
+Pagi,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,23.0,12.73,33.21,23.93,23.62,32.44
+Pagi,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,23.0,11.39,29.71,25.25,23.62,26.92
+Pagi,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,23.0,14.45,37.7,21.38,23.62,41.28
+Pagi,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,23.0,20.11,52.46,22.82,23.62,53.94
+Pagi,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,23.0,13.71,35.77,24.68,27.16,40.49
+Pagi,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,23.0,14.85,38.74,27.64,27.16,42.11
+Pagi,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,23.0,14.67,38.27,27.49,27.16,40.9
+Pagi,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,23.0,14.56,37.98,28.82,27.16,36.29
+Pagi,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,23.0,20.62,53.79,24.2,26.86,50.03
+Pagi,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,23.0,13.42,35.01,27.41,26.86,34.35
+Pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,23.0,10.93,28.51,28.2,26.86,59.67
+Pagi,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,23.0,17.05,44.48,23.75,26.86,56.76
+Pagi,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,23.0,15.75,41.09,32.71,26.86,31.32
+Pagi,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,23.0,13.2,34.43,24.89,26.86,32.15
+Pagi,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,23.0,16.32,42.57,30.66,36.19,34.25
+Pagi,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,23.0,18.79,49.02,35.12,36.19,40.29
+Pagi,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,23.0,8.45,22.04,40.89,36.19,13.64
+Pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,23.0,14.92,38.92,32.59,36.19,28.71
+Pagi,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,23.0,18.31,47.77,41.66,36.19,30.99
+Pagi,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,23.0,14.38,37.51,26.6,30.84,32.39
+Pagi,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,23.0,12.86,33.55,35.73,30.84,21.64
+Pagi,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,23.0,11.38,29.69,35.02,30.84,19.63
+Pagi,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,23.0,13.13,34.25,31.62,30.84,24.9
+Pagi,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,23.0,20.29,52.93,25.23,30.84,48.75
+Pagi,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,23.0,14.47,37.75,32.41,29.61,30.25
+Pagi,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,23.0,15.55,40.57,23.3,29.61,45.99
+Pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,23.0,17.43,45.47,32.46,29.61,45.25
+Pagi,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,23.0,16.23,42.34,30.25,29.61,44.71
+Sore,Selatan - Pusat,Lenteng Agung - Ps. Minggu - Supomo - dr. Saharjo - Sultan Agung - Cik Ditiro - Menteng Raya - Tugu Tani,23.0,19.62,51.19,25.39,26.64,47.22
+Sore,Selatan - Pusat,Cilandak KKO - Warung Buncit - Mampang Prapatan - Rasuna Said - HOS Cokroaminoto,23.0,13.36,34.85,26.57,26.64,31.65
+Sore,Selatan - Pusat,Pangeran Antasari - Prapanca - Iskandarsyah - Pattimura - Jend. Sudirman - MH. Thamrin,23.0,11.13,29.03,28.67,26.64,28.08
+Sore,Selatan - Pusat,Pondok Labu - Fatmawati - Panglima Polim - Sisingamangaraja - Jend.  Sudirman - Thamrin,23.0,16.25,42.39,24.81,26.64,45.21
+Sore,Selatan - Pusat,Pasar Jumat - Metro Pondok Indah - Iskandar Muda - Teuku Nyak Arief - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),23.0,15.87,41.4,30.75,26.64,31.97
+Sore,Selatan - Pusat,Ciledug Raya - Keb Lama - Pakubuwono 6 - Hang Leukir - Asia Afrika - Pintu 1  Senayan - Jend. Sudirman,23.0,12.25,31.96,22.82,26.64,33.28
+Sore,Selatan - Pusat,Raya Ciputat - Tanah Kusir - Bungur - Iskandar Muda - Tentara Pelajar - Pejompongan - Penjernihan 1 - Mas Mansyur (Tanah Abang),23.0,13.4,34.96,27.47,26.64,29.92
+Sore,Timur - Pusat,Raya Bekasi - Perintis Kemerdekaan - Letjend. Suprapto - Kwitang - Ridwan Rais,23.0,17.08,44.56,27.61,30.1,45.69
+Sore,Timur - Pusat,Raya Bekasi - Pemuda - Pramuka - Proklamasi - Diponegoro - Imam Bonjol - Thamrin,23.0,21.21,55.33,31.18,30.1,55.36
+Sore,Timur - Pusat,I Gusti Ngurah Rai - Jatinegara Barat - Matraman - Salemba,23.0,9.39,24.5,30.39,30.1,21.43
+Sore,Timur - Pusat,Kalimalang - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,23.0,14.87,38.79,29.54,30.1,30.64
+Sore,Timur - Pusat,Pondok Kopi - Sukamto - Kolonel Sugiono - Basuki Rahmat - Kampung Melayu - Casablanka - Satrio - Mas Mansyur,23.0,18.91,49.33,31.76,30.1,39.18
+Sore,Utara - Pusat,Pluit - Pluit Timur - Jembatan Tiga - Jembatan Dua - Latumenten - Kyai Tapa - Hasyim Ashari - Gajah Mada,23.0,12.89,33.63,20.66,22.03,36.96
+Sore,Utara - Pusat,Priok - RE. Martadinata - Gunung Sahari - dr. Sutomo - Lapangan Banteng Utara - Veteran,23.0,12.73,33.21,22.79,22.03,33.04
+Sore,Utara - Pusat,Priok - RE. Martadinata - Sunter Barat - Kemayoran (Benyamin Suaeb) - Angakasa - Dr. Sutomo,23.0,11.39,29.71,23.72,22.03,28.51
+Sore,Utara - Pusat,Priok - Yos Sudarso - Letjend. Suprapto - Senen Raya - Kwitang - Abdul Rahman Hakim,23.0,14.45,37.7,20.64,22.03,41.68
+Sore,Utara - Pusat,Marunda - Cilincing Raya - Kramat Jaya - Pegangsaan Dua - Kelapa Nias - Bollevard Raya Kelapa Gading - Bollevard Barat - Yos Sudarso - Letjend. Suprapto,23.0,20.11,52.46,22.34,22.03,54.44
+Sore,Barat - Pusat,Kalideres - Daan Mogot - Kyai Tapa - Hasyim Ashari - Hayam Wuruk,23.0,13.71,35.77,30.61,31.12,29.26
+Sore,Barat - Pusat,Kalideres - Daan Mogot - S. Parman - Tomang Raya - Balikpapan - Harmoni,23.0,14.85,38.74,29.92,31.12,33.14
+Sore,Barat - Pusat,Joglo - Pos Pengumben - Panjang - Arjuna Selatan - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,23.0,14.67,38.27,31.65,31.12,33.61
+Sore,Barat - Pusat,Kedoya - Puri kembangan - Pesanggrahan - Meruya - Panjang - Kemanggisan - Katamso - Jatibaru - Kebon Sirih,23.0,14.56,37.98,32.31,31.12,31.99
+Sore,Pusat - Selatan,Tugu Tani - Menteng Raya - Sultan Agung - Dr. Saharjo - Prof. Dr. Supomo - Pasar Minggu Raya - Lenteng Agung,23.0,20.62,53.79,21.16,22.7,65.1
+Sore,Pusat - Selatan,HOS Cokroaminoto - Rasuna Said - Mampang Prapatan - Warung Buncit - Cilandak KKO,23.0,13.42,35.01,21.98,22.7,43.19
+Sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Pattimura - Iskandarsyah - Prapanca - Pangeran Antasari,23.0,10.93,28.51,32.29,22.7,45.85
+Sore,Pusat - Selatan,MH. Thamrin - Jend. Sudirman - Sisingamangaraja - Panglima Polim - Fatmawati - Pondok Labu,23.0,17.05,44.48,18.92,22.7,67.65
+Sore,Pusat - Selatan,Mas Mansyur (Tanah Abang) - Penjernihan 1 - Pejompongan - Tentara Pelajar - Teuku Nyak Arief - Iskandar Muda - Metro Pondok Indah - Pasar Jum'at,23.0,15.75,41.09,23.62,22.7,44.54
+Sore,Pusat - Selatan,Jend. Sudirman - Hang Tuah - Pakubuwono 6 - Kebayoran Lama - Ciledug Raya,23.0,13.2,34.43,18.25,22.7,46.43
+Sore,Pusat - Timur,Ridwan Rais - Prajurit KKO Usman & Harun - Letjend. Suprapto - Perintis Kemerdekaan - Raya Bekasi,23.0,16.32,42.57,23.36,23.76,48.18
+Sore,Pusat - Timur,MH. Thamrin - Imam Bonjol - Diponegoro - Salemba Raya - Pramuka - Pemuda - Raya Bekasi,23.0,18.79,49.02,26.71,23.76,56.28
+Sore,Pusat - Timur,Salemba Raya - Matraman Raya - Jatinegara Timur - Bekasi Barat Raya - Bekasi Timur Raya - I Gusti Ngurah Rai,23.0,8.45,22.04,29.19,23.76,19.72
+Sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kalimalang,23.0,14.92,38.92,15.94,23.76,60.22
+Sore,Pusat - Timur,Mas Mansyur - Satrio - Casablanca - Kampung Melayu - Basuki Rahmat - Kolonel Sugiono - Sukamto - Pondok Kopi,23.0,18.31,47.77,23.6,23.76,55.65
+Sore,Pusat - Utara,Gajah Mada - Hasyim Ashari - Kyai Tapa - Latumenten - Jembatan Dua - Jembatan Tiga - Pluit Timur - Pluit,23.0,14.38,37.51,15.56,22.49,56.25
+Sore,Pusat - Utara,Ir. H. Juanda - dr. Sutomo - Gunung Sahari - RE. Martadinata - Priok,23.0,12.86,33.55,26.11,22.49,29.63
+Sore,Pusat - Utara,dr. Sutomo - Angkasa - Kemayoran - Sunter Barat -  RE. Martadinata - Priok,23.0,11.38,29.69,25.55,22.49,26.79
+Sore,Pusat - Utara,Ridwan Rais - Prajurit KKO Usman dan Harun - Letjend. Suprapto - Yos Sudarso - Priok,23.0,13.13,34.25,24.05,22.49,33.18
+Sore,Pusat - Utara,Letjend. Suprapto - Yos Sudarso - Bollevard Barat Kelapa Gading - Bollevard Raya Kelapa Gading - Kelapa Nias - Pegangsaan Dua - Kramat Jaya Raya - Cilincing Raya - Marunda,23.0,20.29,52.93,21.16,22.49,58.65
+Sore,Pusat - Barat,Hayam Wuruk - Hasyim Ashari - Kyai Tapa - Daan Mogot - Kalideres,23.0,14.47,37.75,20.72,21.67,46.75
+Sore,Pusat - Barat,Hayam Wuruk - Balikpapan - Tomang Raya - S. Parman - Daan Mogot - Kalideres,23.0,15.55,40.57,18.11,21.67,54.13
+Sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Arjuna Selatan - Panjang - Pos Pengumben - Joglo,23.0,17.43,45.47,24.61,21.67,50.71
+Sore,Pusat - Barat,Kebon Sirih - Jatibaru - Katamso - Kemanggisan - Panjang - Meruya - Pesanggrahan - Puri Kembangan - Kedoya,23.0,16.23,42.34,23.22,21.67,48.24
